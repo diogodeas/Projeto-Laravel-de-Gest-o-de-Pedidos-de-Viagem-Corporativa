@@ -9,6 +9,7 @@
 .env
 .env.backup
 .env.production
+.env.testing
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
@@ -38,7 +39,6 @@ public_html/hot
 
 storage/*.key
 .env
-.env.testing
 Homestead.yaml
 Homestead.json
 /.vagrant
