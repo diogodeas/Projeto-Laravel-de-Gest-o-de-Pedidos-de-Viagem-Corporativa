@@ -19,8 +19,8 @@ Certifique-se de ter o [Docker](https://www.docker.com/) e o [Docker Compose](ht
 
 1. Clone o repositório em seu ambiente local:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
-    cd <NOME_DO_DIRETORIO>
+    git clone https://github.com/diogodeas/Projeto-Laravel-de-Gest-o-de-Pedidos-de-Viagem-Corporativa.git
+    cd laravel-docker
     ```
 
 2. Crie o arquivo `.env` a partir do `.env.example` e configure as variáveis de ambiente:
