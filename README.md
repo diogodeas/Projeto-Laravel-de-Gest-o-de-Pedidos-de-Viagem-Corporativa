@@ -108,5 +108,3 @@ Esse comando irá executar todos os testes definidos no diretório tests, valida
 
 - Caso ocorra o erro `Auth guard [api] is not defined`, verifique se o arquivo `config/auth.php` contém a configuração de guardas para `api`.
 - Verifique se o token JWT está sendo enviado no cabeçalho `Authorization: Bearer <token>` nas requisições que exigem autenticação.
-
->>>>>>> f665eb829376caf1f42a869ebd95cfabdda729ef
